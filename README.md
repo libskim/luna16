@@ -1,1 +1,1 @@
-Jupyter notebook
+Snippets
