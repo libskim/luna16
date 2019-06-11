@@ -1,6 +1,6 @@
 # Author: Seunghyun Kim
-# Date: 18 Feb 2019
-# Last updated: 21 Feb 2019
+# Date: 18 Feb. 2019
+# Last updated: 21 Feb. 2019
 
 import os
 from collections import namedtuple
